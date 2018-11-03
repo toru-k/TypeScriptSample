@@ -1,1 +1,2 @@
 # TypeScriptSample
+TypeScriptのお勉強。
